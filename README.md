@@ -7,6 +7,12 @@ something abnormal happens (a temperature spike, a fan surge, a process
 CPU spike) and records what led up to it, what followed, and whether the
 fan's behavior is actually explained by load.
 
+<p align="center">
+  <img src="screenshots/expanded.png" alt="whyhot desktop companion, expanded" width="300">
+  <br>
+  <img src="screenshots/collapsed.png" alt="whyhot desktop companion, collapsed" width="300">
+</p>
+
 ## Build
 
 ```
